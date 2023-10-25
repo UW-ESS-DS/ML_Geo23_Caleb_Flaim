@@ -1,8 +1,8 @@
 # ML_Geo23_Caleb_Flaim
-
+## General repo info:
 [**Link to class repo**](https://github.com/UW-ESS-DS/MLGeo-2023).
 
-## Repo Info
+
 **Caleb's favorite Earth science topics:**
   *Surface gravity waves
   *Subduction zones
