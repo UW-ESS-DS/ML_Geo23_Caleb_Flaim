@@ -4,10 +4,10 @@
 
 
 **Caleb's favorite Earth science topics:**
-  *Surface gravity waves
-  *Subduction zones
-  *Thermohaline circulation
-  *Hydrothermal vents
+  * Surface gravity waves
+  * Subduction zones
+  * Thermohaline circulation
+  * Hydrothermal vents
 
 To clone this repository, copy and paste this into your terminal/command line:
 
